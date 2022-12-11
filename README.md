@@ -4,4 +4,4 @@ Technologies Used for this Project are -:
 • React
 • Hooks
 
-The link for the project is : https://ashmanjagdev.github.io/React-calculator/
+The link for the project is : https://ashmanjagdev.github.io/calculator/
